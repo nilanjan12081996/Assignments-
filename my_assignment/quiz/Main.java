@@ -1,7 +1,9 @@
 /*
  * Author Nilanjan Dasgupta
- * This is an Quiz App using array list(There are only 5 question) which print the question and take answer from user if answer is correct then it prints the answer is correct and score will be increase.
- *if answer is wrong is give message answer is wrong and print the correct answer to the user and after the test hasbeen taken it will generate your total score according to your right answer and also generate percentage as well.
+ * This is an Quiz App using array list(There are only 5 question) which print the question and take answer from user 
+ if answer is correct then it prints the answer is correct and score will be increase.
+ *if answer is wrong is give message answer is wrong and print the correct answer to the user and after the test hasbeen taken it will generate your 
+ total score according to your right answer and also generate percentage as well.
  */
 package quiz;
 
